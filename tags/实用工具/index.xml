@@ -228,28 +228,28 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><table>
-<thead>
-<tr>
-<th style="text-align:center">机器类型</th>
-<th style="text-align:center">局域网 IP</th>
-<th style="text-align:center">hostname</th>
-<th style="text-align:center">username</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">master/slaver</td>
-<td style="text-align:center">192.168.1.103</td>
-<td style="text-align:center">mark-pc</td>
-<td style="text-align:center">mark</td>
-</tr>
-<tr>
-<td style="text-align:center">slaver</td>
-<td style="text-align:center">192.168.1.104</td>
-<td style="text-align:center">nil-PC</td>
-<td style="text-align:center">nil</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th style="text-align: center">机器类型</th>
+          <th style="text-align: center">局域网 IP</th>
+          <th style="text-align: center">hostname</th>
+          <th style="text-align: center">username</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">master/slaver</td>
+          <td style="text-align: center">192.168.1.103</td>
+          <td style="text-align: center">mark-pc</td>
+          <td style="text-align: center">mark</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">slaver</td>
+          <td style="text-align: center">192.168.1.104</td>
+          <td style="text-align: center">nil-PC</td>
+          <td style="text-align: center">nil</td>
+      </tr>
+  </tbody>
 </table>
 <p>集群环境是</p>
 <ul>
